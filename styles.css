@@ -1,0 +1,54 @@
+
+/* Header start */
+
+body {
+    font-family: sans-serif;
+}
+
+.header__info {
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.header__logo {
+    font-size: 2.25rem;
+}
+
+.site-nav {
+    position: relative;
+    z-index: 2;
+    height: 2.75rem;
+    overflow-y: hidden;
+}
+
+
+.nav__list {
+    list-style: none;
+    padding-left: 0;
+}
+
+.bd-placeholder-img {
+    text-anchor: middle;
+    font-size: 1.5rem;
+}
+
+
+.article__title {
+    font-size: 26px;
+    font-weight: 600;
+}
+
+.article__blog-title {
+    font-size: 2.5rem;
+}
+
+.blog-pagination {
+    font-size: 58px;
+}
+
+.blog-footer {
+    padding: 2.5rem 0;
+    color: #727272;
+    text-align: center;
+    background-color: #f9f9f9;
+    border-top: 0.05rem solid #e5e5e5;
+}
